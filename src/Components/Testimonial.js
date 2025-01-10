@@ -36,28 +36,29 @@ function Testimonial() {
       >
         <SwiperSlide>
             <div className='testimonialcard'>
-            <img className='testimg1 mx-4 mb-4 mt-2' src={require('../Assets/testimonial1pic.jpg')} />
+            <img className='testimg1 mx-4 mb-4 mt-2' src={require('../Assets/testimonial1pic.jpg')} alt="Testimonial from John Doe" />
                 <h5 className='mx-4'>Jhon doe</h5>
                 <p className='mx-4'>A really good job,all aspects of the project were followed step by step and with good results.</p>
             </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='testimonialcard'>
-            <img className='testimg1 mx-4 mb-4 mt-2' src={require('../Assets/testimonial1pic.jpg')} />
+            <img className='testimg1 mx-4 mb-4 mt-2' src={require('../Assets/testimonial1pic.jpg' )} alt="Testimonial from John Doe" />
                 <h5 className='mx-4'>Mark Wood</h5>
                 <p className='mx-4'>A really good job,all aspects of the project were followed step by step and with good results.</p>
             </div>
             </SwiperSlide>
         <SwiperSlide>
         <div className='testimonialcard'>
-            <img className='testimg2 mx-4 mb-4 mt-2' src={require('../Assets/testimonial3pic.jpg')} />
+             <img className='testimg2 mx-4 mb-4 mt-2' src={require('../Assets/testimonial3pic.jpg')} alt="Testimonial from John Doe" />
                 <h5 className='mx-4'>Sara Cill</h5>
                 <p className='mx-4'>A really good job,all aspects of the project were followed step by step and with good results.</p>
             </div>
         </SwiperSlide>
         <SwiperSlide>
         <div className='testimonialcard'>
-            <img className='testimg2 mx-4 mb-4 mt-2' src={require('../Assets/testimonial3pic.jpg')} />
+        <img className='testimg2 mx-4 mb-4 mt-2' src={require('../Assets/testimonial3pic.jpg')} alt="Testimonial from John Doe" />
+
                 <h5 className='mx-4'>Sansa</h5>
                 <p className='mx-4'>A really good job,all aspects of the project were followed step by step and with good results.</p>
             </div>

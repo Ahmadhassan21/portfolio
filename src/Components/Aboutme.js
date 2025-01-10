@@ -1,6 +1,6 @@
-import React from 'react'
-import Resume from '../Assets/Resume.png';
-import MeDarkImage from '../Assets/me-dark.png'; // Improved image import
+import React from 'react';
+import Resume from '../Assets/Resume.png'; // Resume download link
+import MeDarkImage from '../Assets/me-dark.png'; // Profile image
 
 function Aboutme() {
     return (
